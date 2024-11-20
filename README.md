@@ -2,7 +2,7 @@
 
 #### Opis działania aplikacji
 
-Aplikacja opiera się na technologii Node.js i wykorzystuje OpenAI API do przetwarzania i analizy tekstu. Po wprowadzeniu danych wejściowych aplikacja przesyła je do OpenAI API, które generuje odpowiednie odpowiedzi. Wynik jest przetwarzany i zwracany w czytelnej formie.
+Aplikacja opiera się na technologii Node.js i wykorzystuje OpenAI API do przetwarzania i analizy tekstu. Po uruchomieniu skryptu, ten przesyła dane do OpenAI API, które następnie generuje odpowiednie odpowiedzi. Wynik jest przetwarzany i zwracany w formie pliku HTML.
 
 #### Technologie
 - Node.js
@@ -40,7 +40,7 @@ $ node script.js
 
 #### Application Description
 
-The application is based on Node.js and utilizes the OpenAI API to process and analyze text. After receiving input data, the application sends it to the OpenAI API, which generates the appropriate responses. The result is then processed and returned in a readable format.
+The application is based on Node.js technology and uses the OpenAI API to process and analyze text. When the script is executed, it sends data to the OpenAI API, which then generates the appropriate responses. The result is processed and returned as an HTML file.
 
 #### Technologies
 - Node.js
